@@ -31,6 +31,7 @@ int main(){
         cout<<"Ingrese numero de afiliado: ";
         cin>>nroAfi;
         }
+
         cout<<
      system("pause");
      return 0;
